@@ -29,6 +29,14 @@ garantir uma visão mais ampla e aproximada da realidade para uma melhor tomada 
 Este Simulador usa como fonte de dados as tabelas atualizadas das aliquotas de contribuição de Imposto de renda de pessoas físicas (IRPF) e Alíquota previdenciárias do RPPS e INSS.
 Para fins de simulação de cenários de acumulação de recursos no tempo, são utilizados valores históricos de renatabilidade de Tesouro Direto e Inflação, mas não são garantia de performance futura de rendimentos.
 
+## Links menncionados no manual em pdf
+
+[Base Contribuição](https://drive.google.com/drive/folders/1lKjRScNZzlPZ0QH5Zrfp-l2zr7-jG575?usp=sharing)
+Este link fornece acesso a planilha para calculo da média salarial histórica, como descrito no manual de instruções.
+
+[Simulador Funpresp](https://perfis.funpresp.com.br/#/chat-simulador-publico)
+Este link fornece acesso ao simulador da funpresp, para obter as informações de cálculo de benefício a ser pago pela funpresp.
+
 ## Visualização de dados
 
 Para análise e visualização de dados, o simulador foi contruído usando o software Microsft Power BI. O Design do dashboard foi elaborado usando o Figma.

@@ -28,3 +28,7 @@ Para fins de simulação de cenários de acumulação de recursos no tempo, são
 ## Visualização de dados
 
 Para análise e visualização de dados, o simulador foi contruído usando o software Microsft Power BI. O Design do dashboard foi elaborado usando o Figma.
+
+## Direitos de uso
+
+Os arquivo svg , assim como o arquivo .pbix do powerbi podem ser livremente utilizados para quem tiver interesse em explorar e ampliar as funcionalidades do simulador, peço apenas que se o simulador for de fato útil sejam dados os devidos créditos a este autor e que marquem o repositório como útil dando uma estrela.

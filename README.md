@@ -2,7 +2,7 @@
 
 ## URL DE ACESSO
 
-[Simulador de Migração de Regime Previdenciário]([https://www.genome.gov/](https://app.powerbi.com/view?r=eyJrIjoiMDE1ZDBmYWMtOTFlZC00MTNiLWE4MjgtYWRmYzc4NGU1ZThjIiwidCI6IjAyZGMwNjZhLTIzOTMtNGFjNy04M2I0LTEwOWQ0ZDcxMGZhMyJ9&pageName=ReportSection585a910369cffb591339))
+[Simulador de Migração de Regime Previdenciário](https://app.powerbi.com/view?r=eyJrIjoiMDE1ZDBmYWMtOTFlZC00MTNiLWE4MjgtYWRmYzc4NGU1ZThjIiwidCI6IjAyZGMwNjZhLTIzOTMtNGFjNy04M2I0LTEwOWQ0ZDcxMGZhMyJ9&pageName=ReportSection585a910369cffb591339)
 
 ## Objetivo
 
